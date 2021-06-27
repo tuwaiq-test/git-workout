@@ -1,3 +1,7 @@
 This is my file.. Secret do not read.
 Sorry, group's leader. I have to edit this file, even though it is a secret file.
 Why? you make me very sad :(
+
+// ---------------------------------------------------------------------
+Note: it is not secret file anymore, it has been bushed to GitHub!
+
